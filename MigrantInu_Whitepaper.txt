@@ -1,0 +1,77 @@
+                                            ..                                            
+                                      .=#%%%#%%@%*-                                       
+                                    :#@*=--=====+*@@+                                     
+                                   +@*-=====++++++=*@@:                                   
+                       -++-       #@+=++++********++*@@-                                  
+                     :%@+*@@*.   #@=+*****************@@:    .=**-                        
+                    .@%.  :*@@*.+@+==+*+++*+++***+**+=#@@. -#@@*#@*                       
+                    #@:.:-=*%@@@@@%@@@@%%%%%%%%%@@@@%%@@@%@@@*-:.*@+                      
+                 *#%@@@%#**++=+=----=====+++++++=======*#*####%#%@@@#+=-:                 
+                #@++===+++==*######+=+************++==*#******#**=-==+++#%@#*=:           
+       ..   .: -@#****+===*########*+===+******+===+*%#*************++++++==+#%@%*-       
+    ::#@%@%%@@@@@***+==+*#%%%%%%%%%%@%####%%%#####%%%%%%####*#*##++=+****+******#%@@*-    
+  -@####**++=++*##**#%%@%%%########***************######%%%@@@%%####%%###++*********%@%:  
+ .@#:=*##%%%%%%%%#***++***##%%%%%%@@@@@@@@@@@@@@@@%%%%%%###******###%%@@@%#*#%*++**###@@  
+ :@*=+%@@%#**++*##%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%##****##%@%##%####%@- 
+ .@@@%#*+*#%%@@@@@@@@@@@@@%%%%%%###################%%%%%@@@@@@@@@@@@@@@@@%%##**##@@@%%%@: 
+  @@++#%@@@@@@@@@@@@@@%#*****##++++************++++##*******###%@@@@@@@@@@@@@@@%#**#%@@@. 
+  *@%@@@@@@@@@@@@@@@@+:*++==============+++=========+==+*******#@@@@@@@@@@@@@@@@@@@%*#@#  
+   %@@@@@@@@@@@@@@@@- -=====*+=*%*==============*+=%%*====+*****#@@@@@@@@@@@@@@@@@@@@@@:  
+   .%@@@@@@@@@@@@@@:.======+@*-*@@+============*@=:#@@+======+***#@@@@@@@@@@@@@@@@@@@@:   
+     +@@@@@@@@@@@@-.=====+*+%@@@@%=-.      .:==+@@@@@@*+=======***%@@@@@@@@@@@@@@@@@#.    
+      :#@@@@@@@@@+ .:...:---=*##+:  -=--+=    .-+###*=-:.     .:-*#@@@@@@@@@@@@@@@%-      
+        :*@@@@@@@+ ---------:..    -@@@@@@*      .:-:            -+@@@@@@@@@@@@@#-        
+           -*@@@@@: ---------: -:   =#@@%+.    -.     .         .-=@@@@@@@@@@#=.          
+              .=+%@-..-------: =@-   -%@=    :*%-     ..       .-=%@@@@@#*=:              
+                  +@+..::---:.  :+#%%#++#%%#%#=               .-=@@=:.                    
+                   :%%=:.           :----:.    ..:::.       .-=#@@=-:.                    
+                     =%%*=:.                 .--------.  .:-=#@@*++**%@#-                 
+                       -%@%*=::.           :--------==-:-+#@@@@@%#***++#@%.               
+                       :@@@@@@#*+--:::.....:========++*%@@@@@@%@@%%######@@-              
+                      .@@%@@@###%@@%##***+++***##%@@%###%@@%@@@%@@@@@@@@@@@@%:            
+                      +@%%%%%@@@#**+++*****#%@@%#++*#%@@@%%%%@@%#@@%%@+-++--*@            
+                     .@@##%#%%%%%%@@@@@%%%%%%%@@@@@@@%%%@%%%##@@#%@%#@#******%*           
+                     #@#*####%%%##%%%%%%%%%%@@%@@@@@@@@@@##***@@@#@@%@#**#####@:          
+                    =@#****#%#****##########%@@@@@@@@##*******#@@##%@@@#*@+*%%@-          
+                   .@%**********#***************@%%@%@%#*******%@@##*@@%@@#%@@@           
+                   *@=*+**#####*#***#**********%@#%@*#%@%#******@@%#*@%**@@%@%@.          
+                  .@#+*++***###**************#@@#*%@****#*++==+*#@@#*@%*#%%*%#@.          
+                  *@-%%####**####************##*****+++==*==+*#%%@@%*@%***%%*#@.          
+                  @@%@%%%########*******++++++========++%#####%%%@@@%%@%%###%@#           
+                  %@@@%@@@@@%%#%####**#************####%%#%%%@@@@@@@%%%%%@%@@+            
+                  .@%**@@%%%@%@@@%%%################%%%%@@@@@@#@@@@@@@@@@@%+.             
+                  =@+:=*@+=+#+@*@#@@@@@@@@@@@@@@@@@@@%@*@@*%*#**#%@#==-:.                 
+                  *@-  .@%.:.  .-:#*@@#@#@@#@@*@+%*+#.*=@@-:   .=*@=                      
+                  +@#-. %@-       :*@@@@@@@@@@#=:     .+@@-:.: .=%@:                      
+              -=*###@@%%@@@+=:.-.-#@@@@@@@@@@@@#=:-::-+@@@@%%%%%@%###**+=:                
+                     .::::+#%@@@@%#************#%@@@@%#+----::::.        
+					 
+MIGRANT INU (MIGRANT) - Whitepaper
+Ticker: $MIGRANT
+SPL Contract Address: 4gnvu6Y3N6Y1fRMEUs5ywAReiMnArJHpwxUDF4RD4UnT
+MigrantInu.com
+Telegram: t.me/migrantinu
+X: https://x.com/migrantinu
+Supply: 21,000,000
+Liquidity Tokens: 100% Burnt
+Developer Wallet: migrantinu.sol
+
+Migrant Inu - A Community-Driven Parody Project:
+Pawncho Shiba has had it with humorless, low-effort rugpulls being built on the Solana ecosystem, so he's here to lead a memecoin revolution and cross the border to the moon! 
+Migrant Inu is a community-driven cryptocurrency inspired by recent events. Migrant Inu is a proof-of-stake Cryptocurrency built on the Solana Blockchain. 
+Migrant Inu leverages the power of the Solana blockchain to provide blazing fast, and cheap transactions.
+
+Tokenomics:
+Migrant Inu has a limited supply of 21,000,000 $MIGRANT tokens. There are 0 trading taxes imposed on $MIGRANT transactions. 
+The developers of Migrant Inu will retain 4% of the total supply (840,000 tokens) to grow the project and pay for expenses such as webhosting and advertising. The remaining 19,160,000 tokens will be sold to the public. 
+
+Transparency:
+In the spirit of remaining community-driven, the developer account will be publicly viewable at migrantinu.sol on any Solana Blockchain explorer.
+
+Ongoing Development:
+Migrant Inu is a Community-Driven project with a team of two core developers, Greg AbBOT (x.com/@gregabB0T) and El Chaco (x.com/@ElChacoCrypto).
+Traders and Holders of Migrant Inu may qualify for rewards, such as Migrant Inu NFT airdrops, based off of snapshot dates that will be made publicly available through official Migrant Inu channels.
+
+Contributing:
+Migrant Inu is trying to build an organic community. Community members will be able to steer the direction of the project by participating in our official Telegram's discussion, suggesting ideas, and voting in polls.
+Additionally, community members are encouraged to create memes and build the lore surrounding the the Pawncho Shiba Universe. Meme resources will be made available to everyone via official Migrant Inu channels.
